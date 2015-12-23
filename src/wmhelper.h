@@ -112,6 +112,7 @@ public:
   static QString getKDESUCommand();
   static QString getTDESUCommand();
   static QString getGKSUCommand();
+  static QString getLXQTSUCommand();
   static QString getXFCEEditor();
   static QString getSUCommand();
   static void openFile(const QString& fileName); //fileName is Path + Name
