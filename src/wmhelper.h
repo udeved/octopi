@@ -28,6 +28,8 @@ const QString ctn_ROOT_SH("/bin/sh -c ");
 
 const QString ctn_KDESU("kdesu");
 
+const QString ctn_LXQTSU("lxqt-sudo");
+
 const QString ctn_KDE_DESKTOP("kwin");
 const QString ctn_KDE_X11_DESKTOP("kwin_x11");
 const QString ctn_KDE_WAYLAND_DESKTOP("kwin_wayland");
